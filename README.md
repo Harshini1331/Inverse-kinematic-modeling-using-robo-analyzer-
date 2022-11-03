@@ -50,7 +50,7 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 6.update the DH parameters of the link configuration and end effector configuration.
 
-### SIMULATION 
+### SIMULATION :
 
  ![image](https://user-images.githubusercontent.com/75235554/199654923-050d5ccd-e98b-431a-865c-27741d23555e.png)
 
