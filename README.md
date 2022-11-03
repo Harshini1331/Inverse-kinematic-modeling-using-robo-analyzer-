@@ -56,8 +56,5 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
  ![image](https://user-images.githubusercontent.com/75235554/199654849-335eea5a-632a-45ad-8573-2a605d5b98ab.png)
  
-### PLOT 
-
-
 ### RESULTS :  
-Thus,the inverse kinematics using DH parameters for a 4 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
+Thus,the inverse kinematics using DH parameters for a 3 dof planer robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
